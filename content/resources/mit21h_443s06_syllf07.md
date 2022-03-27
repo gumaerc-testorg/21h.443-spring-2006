@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 8b92bc6b-ab70-59f4-0e61-025aad15e4d3
 resourcetype: Document
 title: Fall 2007 Syllabus
 uid: d58ec177-137e-1a58-034e-d12bce5f6874
