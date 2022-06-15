@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and grading. An archive of syllabi from a variety
+  of different terms is also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,11 +19,11 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2007, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_443s06_syllf07))
+> Fall 2007, David Ciarlo ({{% resource_link d58ec177-137e-1a58-034e-d12bce5f6874 "PDF" %}})
 > 
-> Spring 2006, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_443s06_sylls06))
+> Spring 2006, David Ciarlo ({{% resource_link 8b9d1d56-b425-3ecf-5420-288553899a66 "PDF" %}})
 > 
-> Spring 2005, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_443s06_sylls05))
+> Spring 2005, David Ciarlo ({{% resource_link 6c2c69e4-2a96-7e8f-2a84-a3c6b4c5f232 "PDF" %}})
 
 European Imperialism in the 19th and 20th Centuries
 ---------------------------------------------------
